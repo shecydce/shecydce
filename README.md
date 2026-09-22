@@ -1,4 +1,4 @@
-# ¡Hola! Soy Shecyd Celeste Choque 👋
+# ¡Hola! Soy Shecyd Choque 👋
 
 Estudiante de **Ingeniería Electrónica** (UNLaM) y de la **Tecnicatura Universitaria en Programación** (UTN FRBA), con un perfil técnico cruzado entre automatización industrial, programación y electricidad.
 
