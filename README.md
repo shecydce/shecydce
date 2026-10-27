@@ -1,6 +1,6 @@
 # ¡Hola! Soy Shecyd Choque 👋
 
-Estudiante de **Ingeniería Electrónica** (UNLaM) y de la **Tecnicatura Universitaria en Programación** (UTN FRBA), con un perfil técnico cruzado entre automatización industrial, programación y electricidad.
+Estudiante de **Ingeniería Informática** (UNLaM) y de la **Tecnicatura Universitaria en Programación** (UTN FRBA), con un perfil técnico cruzado entre automatización industrial, programación y electricidad.
 
 Me interesa especialmente todo lo que conecta hardware, lógica de control y software: PLC, sensores, y herramientas de análisis de datos aplicadas a procesos industriales.
 
